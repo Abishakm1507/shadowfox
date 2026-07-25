@@ -6,8 +6,6 @@ A console-based autocorrect keyboard that:
 1. Detects and corrects misspelled words using pyspellchecker
 2. Predicts the next word using a Trigram Language Model
 
-Author: ShadowFox Intern
-Date: July 2026
 """
 
 import re
