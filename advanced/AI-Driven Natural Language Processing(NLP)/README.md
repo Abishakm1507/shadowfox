@@ -4,7 +4,7 @@
 
    ![Python](https://img.shields.io/badge/Python-3.10+-blue)
    ![LangChain](https://img.shields.io/badge/LangChain-0.3+-green)
-   ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-orange)
+   ![Gemini](https://img.shields.io/badge/Gemini-3.5%20Flash-orange)
    ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-red)
 
    ---
@@ -42,7 +42,7 @@
    |------------|---------|
    | **Python 3.10+** | Primary programming language |
    | **LangChain** | Framework for LLM application development |
-   | **Google Gemini 2.5 Flash** | Large Language Model |
+   | **Google Gemini 3.5 Flash** | Large Language Model |
    | **langchain-google-genai** | LangChain integration for Gemini |
    | **Pandas** | Data manipulation and analysis |
    | **NumPy** | Numerical computing |
@@ -67,7 +67,7 @@
 
    ## Why Gemini?
 
-   Google Gemini 2.5 Flash was selected because:
+   Google Gemini 3.5 Flash was selected because:
 
    - **Free tier available** — No cost for experimentation and learning
    - **Fast inference** — Flash variant is optimized for speed
@@ -89,8 +89,8 @@
    ### Step 1: Clone the Repository
 
    ```bash
-   git clone https://github.com/yourusername/AI_Driven_NLP_Project.git
-   cd AI_Driven_NLP_Project
+   git clone https://github.com/Abishakm1507/shadowfox.git
+   cd shadowdox/advanced/AI-Driven Natural Language Processing(NLP)
    ```
 
    ### Step 2: Install Dependencies
