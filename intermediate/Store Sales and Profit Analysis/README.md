@@ -118,7 +118,7 @@ git clone https://github.com/Abishakm1507/shadowfox.git
 2. Navigate to the project folder
 
 ```bash
-cd shadowfox/intermediate
+cd shadowfox/intermediate/Store Sales and Profit Analysis
 ```
 
 3. Install required libraries
