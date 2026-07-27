@@ -117,7 +117,3 @@ See the full documentation inside the project folder:
 └── README.md                 
 ```
 
-
-
-These projects were created for the ShadowFox Internship program.
-```
