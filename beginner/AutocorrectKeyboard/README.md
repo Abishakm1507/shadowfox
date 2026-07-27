@@ -57,7 +57,8 @@ AutocorrectKeyboard/
 
 1. **Clone or download the project**
    ```
-   cd AutocorrectKeyboard
+   git clone https://github.com/Abishakm1507/shadowfox.git
+   cd shadowfox/AutocorrectKeyboard
    ```
 
 2. **Install dependencies**
